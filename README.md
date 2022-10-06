@@ -7,6 +7,7 @@ A single-page website that uses React state, props, Hooks, and reusable UI compo
 - React.js
 - JavaScript
 - CSS
+- HTML
 
 ## Deployed URL
 https://malickbax.github.io/photo-port/

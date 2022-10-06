@@ -84,4 +84,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## More Projects
 
-Author: **Malick Ba**, Software Engineer based in Virginia, USA. For more projects, please visit my [GitHub page](https://github.com/malickbax)
+For more projects, please visit my [GitHub page](https://github.com/malickbax)

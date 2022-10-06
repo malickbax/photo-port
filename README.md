@@ -3,6 +3,14 @@
 ## Description
 A single-page website that uses React state, props, Hooks, and reusable UI components to show photographs. A single-page application, or SPA interacts with the web browser by dynamically rewriting the current webpage, in place of the default method of the browser loading entirely new pages. This approach allows for a more fluid UI because the page doesn't have to be reloaded each time. **React** allows for conditional rendering and can replace a portion of the webpage based on the user's selection.
 
+## Technologies
+- React.js
+- JavaScript
+- CSS
+
+## Deployed URL
+https://malickbax.github.io/photo-port/
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -75,6 +83,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## More Projects
-This README file was generated using the readme-generator.
 
 Author: **Malick Ba**, Software Engineer based in Virginia, USA. For more projects, please visit my [GitHub page](https://github.com/malickbax)
